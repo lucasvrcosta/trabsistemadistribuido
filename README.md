@@ -10,10 +10,5 @@ verificação se mais pessoas podem acessar ou se deverão aguardar por
 mais tempo.
 
 sistemas distribuidos presentes: sensor de presença e leitor rfid.
-
-O sensor de presença será representado em uma porta localhost XXXX.
-
-O leitor rfid da mesma maneira que o sensor também usará uma porta localhost XXXX.
-
-O sistema será composto de threads e comunicação tipo tipo TCP. 
+ 
 
